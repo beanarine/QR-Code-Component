@@ -2,6 +2,8 @@
 
 This was a design challenge from Frontend Mentor. You can read more about it below. Completed using only vanilla CSS in an ongoing L&D project.
 
+The following is the content of the challenge README.md
+
 ## End block ##
 
 # Frontend Mentor - QR code component
